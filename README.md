@@ -1,1 +1,2 @@
 # Data-Cleaning-with-Python
+This is a data cleaning project performed on a coffee consumption survey dataset published by Maven Analytics as part of challenge. Details about the challenge and the dataset can be found on the following link https://mavenanalytics.io/challenges/maven-coffee-challenge/. With the size of the data(number of columns and rows), Python seemed suitable for me to use for Data Cleaning as its versatility and efficiency gives the possibility to efficiently handle large datasets with ease and precision.
